@@ -3,7 +3,11 @@
 
 
 ## 🚀 About Me
-I'm a frontend developer & product designer passionate about solving complex problems, developing innovative solutions, and improving exisiting technologies. I am more than ever eager to acquire new skills that will advance my career in tech. I am willing to provide valuable insight and advice based on my experience and expertise to those wanting to navigate the challenges and opportunities in their various tech careers...
+As a web developer, I pride myself on my ability to turn complex ideas into simple and elegant solutions. I have a strong understanding of web development best practices, including responsive design, cross-browser compatibility, and accessibility. 
+
+I am also a strong collaborator and communicator. I understand the importance of working closely with clients and team members to understand their needs and create a website that exceeds their expectations. I am always willing to go the extra mile to ensure that the final product is of the highest quality.
+
+If you're looking for a web developer who is dedicated, skilled and easy to work with, please check out my portfolio and GitHub profile and don't hesitate to contact me.
 
 
 ## Sneak Peek
