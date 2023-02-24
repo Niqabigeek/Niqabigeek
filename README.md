@@ -1,21 +1,26 @@
 
-# Hi, I'm Zeniat!👋
+## Introduction
+Welcome to my GitHub repository. This repository is a collection of my best works and achievements as a developer and designer.
 
 
 ## 🚀 About Me
-As a web developer, I pride myself on my ability to turn complex ideas into simple and elegant solutions. I have a strong understanding of web development best practices, including responsive design, cross-browser compatibility, and accessibility. 
+I'm Zeniat, A frontend developer and UI designer. A strong collaborator and communicator, passionate about turning complex ideas into simple and elegant solutions.
 
-I am also a strong collaborator and communicator. I understand the importance of working closely with clients and team members to understand their needs and create a website that exceeds their expectations. I am always willing to go the extra mile to ensure that the final product is of the highest quality.
+My skills and expertise include:
 
-If you're looking for a web developer who is dedicated, skilled and easy to work with, please check out my portfolio and GitHub profile and don't hesitate to contact me.
+
+- Frontend technologies such as HTML, CSS, JavaScript, and ReactJS
+- UI design tools such as Figma
+- Cross-functional collaboration with designers, developers, and stakeholders
+
+I am dedicated to creating high-quality and visually appealing websites and applications that meet the needs of users and businesses.
+
 
 
 ## Sneak Peek
 👩‍💻 I'm currently working on: Building a ride-share web App for Muslim women
 
-🧠 I'm currently learning: JavaScript/React
-
-📫 How to reach me: zeniatmohammed10@gmail.com
+🧠 I'm currently learning: JavaScript/React 
 
 😄 Pronouns: She/her
 
@@ -29,5 +34,20 @@ If you're looking for a web developer who is dedicated, skilled and easy to work
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS
+Here are my skills in more detail:
+
+## Frontend Development
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- Bootstrap5
+- Tailwind CSS
+- Figma
+- User interface design
+- User experience design
+
+
+## 📫 Contact
+You can contact me at zeniatmohammed10@gmail.com or through my LinkedIn/Twitter. I am always open to new projects and collaborations.
 
