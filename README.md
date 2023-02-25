@@ -32,7 +32,7 @@ I am dedicated to creating high-quality and visually appealing websites and appl
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeniat-badmus-6b9347230/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NiqabiGeek)
 [![Dev.To](https://img.shields.io/badge/dev.to-333?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/niqabigeek)
-[![medium](https://img.shields.io/badge/medium-333?style=for-the-badge&logo=dev.to&logoColor=white)](https://medium.com/@zeniat)
+[![medium](https://img.shields.io/badge/medium-333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeniat)
 
 
 ## 🛠 Skills
