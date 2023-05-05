@@ -18,7 +18,7 @@ I am dedicated to creating high-quality and visually appealing websites and appl
 
 
 ## Sneak Peek
-👩‍💻 I'm currently working on: Building a ride-share web App for Muslim women
+👩‍💻 I'm currently working on: Building a freelancing site
 
 🧠 I'm currently learning: JavaScript/Php 
 
