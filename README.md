@@ -20,7 +20,7 @@ I am dedicated to creating high-quality and visually appealing websites and appl
 ## Sneak Peek
 👩‍💻 I'm currently working on: Building a freelancing site
 
-🧠 I'm currently learning: JavaScript/Php 
+🧠 I'm currently learning: Backend technologies
 
 😄 Pronouns: She/her
 
